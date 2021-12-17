@@ -1,10 +1,10 @@
 //アルバムデータの作成
 let album = [
-    {src: 'img/1.jpg', msg: '山道の緑が気持ちいい'},
-    {src: 'img/2.jpg', msg: '階段きつかった'},
-    {src: 'img/3.jpg', msg: '高尾山薬王院！'},
-    {src: 'img/4.jpg', msg: '帰りはロープウェイでスイスイ'},
-    {src: 'img/5.jpg', msg: '〆はお蕎麦です'}
+    {src: 'photo/1.jpg', msg: '松尾芭蕉発見！'},
+    {src: 'photo/2.jpg', msg: '景色が綺麗だった！'},
+    {src: 'photo/3.jpg', msg: '蕎麦屋で昼食'},
+    {src: 'photo/4.jpg', msg: '松島に行った'},
+    {src: 'photo/5.jpg', msg: 'カフェで休憩'}
 ];
 
 //最初のデータを表示しておく
